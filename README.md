@@ -37,33 +37,23 @@ src/
    
 ## Screenshots
 
-![Login Screen](LoginScreen.png)
-
-![Subject Selection Screen](SubjectSelectionScreen.png)
-
-![Difficulty Selection Screen](DifficultySelectionScreen.png)
-
-![Quiz Screen](QuizScreen.png)
-
-![Leaderboard Screen](LeaderboardScreen.png)
-
 ### Login Screen
-![Login Screen](LoginScreen.png)
+![Login Screen](screenshots/LoginScreen.png)
 
 ### Subject Selection Screen
-![Subject Selection Screen](SubjectSelectionScreen.png)
+![Subject Selection Screen](screenshots/SubjectSelectionScreen.png)
 
 ### Difficulty Selection Screen
-![Difficulty Selection Screen](DifficultySelectionScreen.png)
+![Difficulty Selection Screen](screenshots/DifficultySelectionScreen.png)
 
 ### Quiz Screen
-![Quiz Screen](QuizScreen.png)
+![Quiz Screen](screenshots/QuizScreen.png)
 
 ### Leaderboard Screen
-![Leaderboard Screen](LeaderboardScreen.png)
+![Leaderboard Screen](screenshots/LeaderboardScreen.png)
 
 ### Pass Result Screen
-![Pass Result Screen](PassResultScreen.png)
+![Pass Result Screen](screenshots/PassResultScreen.png)
 
 ## Author
 
