@@ -27,11 +27,13 @@ An offline desktop-based quiz application developed using Core Java, JavaFX, and
 
 ## Project Structure
 
+```text
 src/
 ├── Main.java
 ├── Question.java
 ├── QuestionBank.java
 └── module-info.java
+```
    
 ## Screenshots
 
