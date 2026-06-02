@@ -18,6 +18,23 @@ An offline desktop-based quiz application developed using Core Java, JavaFX, and
 - JavaFX
 - SQLite
 
+## How to Run
+
+1. Clone the repository
+2. Open the project in Eclipse IDE
+3. Configure JavaFX libraries
+4. Run Main.java
+
+## Project Structure
+
+```text
+src/
+├── Main.java
+├── Question.java
+├── QuestionBank.java
+└── module-info.java
+```
+   
 ## Screenshots
 
 ![Login Screen](LoginScreen.png)
