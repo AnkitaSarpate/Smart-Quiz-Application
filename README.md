@@ -30,6 +30,22 @@ An offline desktop-based quiz application developed using Core Java, JavaFX, and
 
 ![Leaderboard Screen](LeaderboardScreen.png)
 
+### Login Screen
+![Login Screen](LoginScreen.png)
+
+### Subject Selection Screen
+![Subject Selection Screen](SubjectSelectionScreen.png)
+
+### Difficulty Selection Screen
+![Difficulty Selection Screen](DifficultySelectionScreen.png)
+
+### Quiz Screen
+![Quiz Screen](QuizScreen.png)
+
+### Leaderboard Screen
+![Leaderboard Screen](LeaderboardScreen.png)
+
+### Pass Result Screen
 ![Pass Result Screen](PassResultScreen.png)
 
 ## Author
